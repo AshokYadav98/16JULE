@@ -1,0 +1,22 @@
+package PatternsStudy;
+
+public class Exa20 {
+
+	public static void main(String[] args) 
+	{
+		      
+		//row-->10 star-->5 space-->0
+		
+		int star=5;
+		int space=0;
+		
+
+		
+		
+		
+		
+		
+		     
+	}
+
+}
