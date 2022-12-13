@@ -20,6 +20,10 @@ public class Base
 		
 		Reporter.log("Launching the browser ", true);
 		
+		
+		
+		
+		
 	}
 
 }
