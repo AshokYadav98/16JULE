@@ -16,6 +16,10 @@ public class Base
 		
 		driver.manage().window().maximize();
 		
+		
+		
+		
+		
 		driver.get("https://neostox.com/");
 		
 		Reporter.log("Launching the browser ", true);
